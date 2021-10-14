@@ -1,0 +1,15 @@
+current directory: /Users/yenivalle/Documents/rails_react_science_projects/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+/Users/yenivalle/.rbenv/versions/3.0.2/bin/ruby -I /Users/yenivalle/.rbenv/versions/3.0.2/lib/ruby/3.0.0 -r ./siteconf20211013-72760-j2gnny.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yenivalle/Documents/rails_react_science_projects/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/yenivalle/Documents/rails_react_science_projects/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yenivalle/Documents/rails_react_science_projects/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20211013-72760-jaeknp/bootsnap
